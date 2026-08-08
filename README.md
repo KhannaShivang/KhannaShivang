@@ -1,33 +1,33 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1DB954&center=true&vCenter=true&width=600&lines=Shivang+Khanna;Java+Developer+%7C+GenAI+Enthusiast;Now+Playing%3A+Building+Scalable+Systems+%F0%9F%8E%A7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1DB954&center=true&vCenter=true&width=700&lines=Shivang+Khanna;Java+Developer+%7C+GenAI+Enthusiast;Now+Playing%3A+Building+Scalable+Systems+%F0%9F%8E%A7;Solved+2000%2B+DSA+Problems+%E2%9A%A1" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/-NOW%20PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-NOW%20PLAYING-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-</div>
+## 🎧 Track Info
 
-<br/>
-
-<table align="center">
+<table width="100%">
 <tr>
-<td width="100%">
+<td>
 
-<div align="center">
-
-### 🎧 Shivang Khanna
-**Java Developer &nbsp;•&nbsp; GenAI Enthusiast &nbsp;•&nbsp; DSA**
+**Shivang Khanna** — *Java Developer, GenAI Enthusiast, DSA*
 
 `▶️ ────────────────●───────── 3:07 / 4:32`
 
-*Software Engineer specializing in Java, Spring Boot, and distributed backend*
-*systems — building low-latency, high-throughput microservices and exploring*
-*applied GenAI (LangGraph, RAG, pgvector). B.Tech CS @ Graphic Era, Dehradun.*
+Software Engineer specializing in **Java, Spring Boot, and distributed backend
+systems** — designing low-latency, high-throughput RESTful microservices and
+exploring applied GenAI (**LangGraph, RAG, pgvector**).
 
-</div>
+B.Tech CS @ Graphic Era Deemed to be University, Dehradun — GPA 8.93/10
+
+Currently deep in DSA practice and interviewing for SDE / Backend roles —
+**open to opportunities.**
 
 </td>
 </tr>
@@ -42,38 +42,191 @@
 
 </div>
 
-<br/>
+---
+
+## 🔁 On Repeat — Currently Learning
+
+<table width="100%">
+<tr><td>
+
+```
+QUEUE ─────────────────────────────────────────────
+
+01  🌱  Spring (Deep Dive)        ── going past the basics into internals
+02  🐳  Docker                    ── containerizing & deploying backend systems
+03  🤖  Applied AI / GenAI        ── leveling up agentic workflows & RAG
+04  🧩  Competitive Programming   ── grinding contests, keeping the DSA edge sharp
+
+─────────────────────────────────────────  🔀 shuffle: off
+```
+
+</td></tr>
+</table>
+
+---
+
+## 🎚️ Equalizer — Skill Arsenal
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🎹 Languages
+*The core instruments*
+
+![Java](https://img.shields.io/badge/-Java-1DB954?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-191414?style=flat-square&logo=python&logoColor=1DB954)
+![C++](https://img.shields.io/badge/-C++-1DB954?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/-C-191414?style=flat-square&logo=c&logoColor=1DB954)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎛️ Backend
+*Where the beat is built*
+
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-1DB954?style=flat-square&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-191414?style=flat-square&logo=fastapi&logoColor=1DB954)
+![Microservices](https://img.shields.io/badge/-Microservices-1DB954?style=flat-square&logo=buildkite&logoColor=white)
+![JDBC](https://img.shields.io/badge/-JDBC-191414?style=flat-square&logo=oracle&logoColor=1DB954)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ Databases
+*Where every track is stored*
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1DB954?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-191414?style=flat-square&logo=mongodb&logoColor=1DB954)
+![MySQL](https://img.shields.io/badge/-MySQL-1DB954?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 AI / ML
+*Remixing intelligence*
+
+![LangGraph](https://img.shields.io/badge/-LangGraph-1DB954?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-191414?style=flat-square&logo=openai&logoColor=1DB954)
+![pgvector](https://img.shields.io/badge/-pgvector-1DB954?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### ⚙️ Tools & Platforms
+*The studio setup*
+
+![Docker](https://img.shields.io/badge/-Docker-1DB954?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-191414?style=flat-square&logo=git&logoColor=1DB954)
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🎵 The Playlist — Featured Projects
 
-<table>
+<table width="100%">
 <tr>
-<td width="70">🎼</td>
-<td>
+<td width="50%" valign="top">
 
-**[MindEase — AI-Powered Mental Wellness Platform](https://github.com/KhannaShivang/MindEase)**
-`FastAPI` `LangGraph` `PostgreSQL`
-Memory-augmented conversational AI with 100+ turn context retention, OAuth 2.0 + JWT auth, and SSE streaming that cut perceived latency by 40%.
+### 🎼 MindEase
+**AI-Powered Mental Wellness Platform**
+
+Memory-augmented conversational AI using LangGraph with 100+ turn context
+retention via PostgreSQL long-term memory. OAuth 2.0 + JWT auth with
+refresh-token rotation. SSE-based streaming cut perceived latency by 40%
+vs polling; connection pooling cut query time by 35%.
+
+![FastAPI](https://img.shields.io/badge/-FastAPI-1DB954?style=flat-square&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-191414?style=flat-square&logo=langchain&logoColor=1DB954)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1DB954?style=flat-square&logo=postgresql&logoColor=white)
+
+🔗 [github.com/KhannaShivang/MindEase](https://github.com/KhannaShivang/MindEase)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎼 GoalMap
+**AI-Powered Goal Planner**
+
+20+ RESTful microservice APIs across roadmap, user, and progress-management
+modules. LLM-based recommendation logic against structured goal/skill
+profiles. pgvector-based RAG improved resource relevance by 30%; response
+caching cut redundant LLM calls by 25%.
+
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-1DB954?style=flat-square&logo=springboot&logoColor=white)
+![pgvector](https://img.shields.io/badge/-pgvector-191414?style=flat-square&logo=postgresql&logoColor=1DB954)
+![Docker](https://img.shields.io/badge/-Docker-1DB954?style=flat-square&logo=docker&logoColor=white)
+
+🔗 [github.com/KhannaShivang/GoalMap](https://github.com/KhannaShivang/GoalMap)
 
 </td>
 </tr>
 <tr>
-<td>🎼</td>
-<td>
+<td width="50%" valign="top">
 
-**[GoalMap — AI-Powered Goal Planner](https://github.com/KhannaShivang/GoalMap)**
-`Spring Boot` `PostgreSQL` `pgvector` `Docker`
-20+ RESTful microservice APIs generating personalized learning roadmaps via LLM integration and pgvector-based RAG — improved resource relevance by 30%.
+### 🎼 FileSquezer
+**Lossless File Compression Framework**
+
+Compression pipeline combining LZ77 + canonical Huffman coding — 70% average
+size reduction, 100% lossless recovery across 50+ datasets. Optimized
+sliding-window matching for 1.5 MB/s throughput on 100MB+ files; streaming
+encoder-decoder cut peak memory by 30%.
+
+![Java](https://img.shields.io/badge/-Java-1DB954?style=flat-square&logo=openjdk&logoColor=white)
+![LZ77](https://img.shields.io/badge/-LZ77-191414?style=flat-square)
+![Huffman](https://img.shields.io/badge/-Huffman%20Coding-1DB954?style=flat-square)
+
+🔗 [github.com/KhannaShivang/FileSquezer](https://github.com/KhannaShivang/FileSquezer)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎼 RagApp
+**Retrieval-Augmented Generation Pipeline**
+
+A GenAI application exploring document ingestion and semantic retrieval
+patterns to ground LLM responses in real context.
+
+![Python](https://img.shields.io/badge/-Python-1DB954?style=flat-square&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-191414?style=flat-square&logo=openai&logoColor=1DB954)
+
+🔗 [github.com/KhannaShivang/RagApp](https://github.com/KhannaShivang/RagApp)
 
 </td>
 </tr>
 <tr>
-<td>🎼</td>
-<td>
+<td width="50%" valign="top">
 
-**[FileSquezer — Lossless File Compression Framework](https://github.com/KhannaShivang/FileSquezer)**
-`Java` `LZ77` `Huffman Coding`
-Streaming encoder-decoder pipeline combining LZ77 and canonical Huffman coding — 70% average size reduction, 100% lossless recovery, 1.5 MB/s throughput.
+### 🎼 Interpreter (JAIL)
+**Just Another Interpreted Language**
+
+A custom interpreted programming language built from scratch in Java —
+lexer, parser, and evaluator implemented end-to-end.
+
+![Java](https://img.shields.io/badge/-Java-1DB954?style=flat-square&logo=openjdk&logoColor=white)
+
+🔗 [github.com/KhannaShivang/Interpreter](https://github.com/KhannaShivang/Interpreter)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎼 JournalApp
+**Spring Boot Journaling Application**
+
+A backend service for personal journaling with structured REST endpoints,
+built to practice clean Spring Boot architecture.
+
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-1DB954?style=flat-square&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-191414?style=flat-square&logo=openjdk&logoColor=1DB954)
+
+🔗 [github.com/KhannaShivang/JournalApp](https://github.com/KhannaShivang/JournalApp)
 
 </td>
 </tr>
@@ -83,39 +236,7 @@ Streaming encoder-decoder pipeline combining LZ77 and canonical Huffman coding �
 <sub>🔊 ─────────────────────────────  🔀 &nbsp; ⏮ &nbsp; ⏸ &nbsp; ⏭ &nbsp; 🔁</sub>
 </div>
 
-<br/>
-
-## 🎚️ Equalizer — Tech Stack
-
-<div align="center">
-
-**Languages**
-![Java](https://img.shields.io/badge/-Java-1DB954?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-191414?style=flat-square&logo=python&logoColor=1DB954)
-![C++](https://img.shields.io/badge/-C++-1DB954?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/-C-191414?style=flat-square&logo=c&logoColor=1DB954)
-
-**Backend**
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-1DB954?style=flat-square&logo=springboot&logoColor=white)
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-191414?style=flat-square&logo=fastapi&logoColor=1DB954)
-![Microservices](https://img.shields.io/badge/-Microservices-1DB954?style=flat-square&logo=buildkite&logoColor=white)
-![JDBC](https://img.shields.io/badge/-JDBC-191414?style=flat-square&logo=oracle&logoColor=1DB954)
-
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1DB954?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-191414?style=flat-square&logo=mongodb&logoColor=1DB954)
-![MySQL](https://img.shields.io/badge/-MySQL-1DB954?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools & AI/ML**
-![Docker](https://img.shields.io/badge/-Docker-191414?style=flat-square&logo=docker&logoColor=1DB954)
-![Git](https://img.shields.io/badge/-Git-1DB954?style=flat-square&logo=git&logoColor=white)
-![LangGraph](https://img.shields.io/badge/-LangGraph-191414?style=flat-square&logo=langchain&logoColor=1DB954)
-![RAG](https://img.shields.io/badge/-RAG-1DB954?style=flat-square&logo=openai&logoColor=white)
-![pgvector](https://img.shields.io/badge/-pgvector-191414?style=flat-square&logo=postgresql&logoColor=1DB954)
-
-</div>
-
-<br/>
+---
 
 ## 🏆 Top Charts — Achievements
 
@@ -129,18 +250,13 @@ Streaming encoder-decoder pipeline combining LZ77 and canonical Huffman coding �
 
 </div>
 
-<br/>
+---
 
 ## 📊 Stats — Listening Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KhannaShivang&show_icons=true&theme=dark&hide_border=true&bg_color=191414&title_color=1DB954&icon_color=1DB954&text_color=ffffff" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhannaShivang&layout=compact&theme=dark&hide_border=true&bg_color=191414&title_color=1DB954&text_color=ffffff" width="45%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KhannaShivang&theme=dark&hide_border=true&background=191414&ring=1DB954&fire=1DB954&currStreakLabel=1DB954" width="65%" />
+<img src="./assets/stats.svg" width="100%" />
 
 <br/><br/>
 
