@@ -74,10 +74,10 @@ QUEUE ────────────────────────�
 ### 🎹 Languages
 *The core instruments*
 
-![Java](https://img.shields.io/badge/-Java-1DB954?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-191414?style=flat-square&logo=python&logoColor=1DB954)
-![C++](https://img.shields.io/badge/-C++-1DB954?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/-C-191414?style=flat-square&logo=c&logoColor=1DB954)
+[![Java](https://img.shields.io/badge/-Java-1DB954?style=flat-square&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![Python](https://img.shields.io/badge/-Python-191414?style=flat-square&logo=python&logoColor=1DB954)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/-C++-1DB954?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![C](https://img.shields.io/badge/-C-191414?style=flat-square&logo=c&logoColor=1DB954)](https://en.cppreference.com/w/c)
 
 </td>
 <td width="50%" valign="top">
@@ -85,10 +85,10 @@ QUEUE ────────────────────────�
 ### 🎛️ Backend
 *Where the beat is built*
 
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-1DB954?style=flat-square&logo=springboot&logoColor=white)
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-191414?style=flat-square&logo=fastapi&logoColor=1DB954)
-![Microservices](https://img.shields.io/badge/-Microservices-1DB954?style=flat-square&logo=buildkite&logoColor=white)
-![JDBC](https://img.shields.io/badge/-JDBC-191414?style=flat-square&logo=oracle&logoColor=1DB954)
+[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-1DB954?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![REST APIs](https://img.shields.io/badge/-REST%20APIs-191414?style=flat-square&logo=fastapi&logoColor=1DB954)](https://restfulapi.net/)
+[![Microservices](https://img.shields.io/badge/-Microservices-1DB954?style=flat-square&logo=buildkite&logoColor=white)](https://microservices.io/)
+[![JDBC](https://img.shields.io/badge/-JDBC-191414?style=flat-square&logo=oracle&logoColor=1DB954)](https://docs.oracle.com/javase/tutorial/jdbc/)
 
 </td>
 </tr>
@@ -98,9 +98,9 @@ QUEUE ────────────────────────�
 ### 🗄️ Databases
 *Where every track is stored*
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1DB954?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-191414?style=flat-square&logo=mongodb&logoColor=1DB954)
-![MySQL](https://img.shields.io/badge/-MySQL-1DB954?style=flat-square&logo=mysql&logoColor=white)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1DB954?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-191414?style=flat-square&logo=mongodb&logoColor=1DB954)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-1DB954?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 </td>
 <td width="50%" valign="top">
@@ -108,9 +108,9 @@ QUEUE ────────────────────────�
 ### 🧠 AI / ML
 *Remixing intelligence*
 
-![LangGraph](https://img.shields.io/badge/-LangGraph-1DB954?style=flat-square&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG-191414?style=flat-square&logo=openai&logoColor=1DB954)
-![pgvector](https://img.shields.io/badge/-pgvector-1DB954?style=flat-square&logo=postgresql&logoColor=white)
+[![LangGraph](https://img.shields.io/badge/-LangGraph-1DB954?style=flat-square&logo=langchain&logoColor=white)](https://www.langchain.com/langgraph)
+[![RAG](https://img.shields.io/badge/-RAG-191414?style=flat-square&logo=openai&logoColor=1DB954)](https://research.ibm.com/blog/retrieval-augmented-generation-RAG)
+[![pgvector](https://img.shields.io/badge/-pgvector-1DB954?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/pgvector/pgvector)
 
 </td>
 </tr>
@@ -120,8 +120,8 @@ QUEUE ────────────────────────�
 ### ⚙️ Tools & Platforms
 *The studio setup*
 
-![Docker](https://img.shields.io/badge/-Docker-1DB954?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-191414?style=flat-square&logo=git&logoColor=1DB954)
+[![Docker](https://img.shields.io/badge/-Docker-1DB954?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/-Git-191414?style=flat-square&logo=git&logoColor=1DB954)](https://git-scm.com/)
 
 </td>
 </tr>
@@ -143,9 +143,9 @@ retention via PostgreSQL long-term memory. OAuth 2.0 + JWT auth with
 refresh-token rotation. SSE-based streaming cut perceived latency by 40%
 vs polling; connection pooling cut query time by 35%.
 
-![FastAPI](https://img.shields.io/badge/-FastAPI-1DB954?style=flat-square&logo=fastapi&logoColor=white)
-![LangGraph](https://img.shields.io/badge/-LangGraph-191414?style=flat-square&logo=langchain&logoColor=1DB954)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1DB954?style=flat-square&logo=postgresql&logoColor=white)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-1DB954?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/KhannaShivang/MindEase)
+[![LangGraph](https://img.shields.io/badge/-LangGraph-191414?style=flat-square&logo=langchain&logoColor=1DB954)](https://github.com/KhannaShivang/MindEase)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1DB954?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/KhannaShivang/MindEase)
 
 🔗 [github.com/KhannaShivang/MindEase](https://github.com/KhannaShivang/MindEase)
 
@@ -160,9 +160,9 @@ modules. LLM-based recommendation logic against structured goal/skill
 profiles. pgvector-based RAG improved resource relevance by 30%; response
 caching cut redundant LLM calls by 25%.
 
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-1DB954?style=flat-square&logo=springboot&logoColor=white)
-![pgvector](https://img.shields.io/badge/-pgvector-191414?style=flat-square&logo=postgresql&logoColor=1DB954)
-![Docker](https://img.shields.io/badge/-Docker-1DB954?style=flat-square&logo=docker&logoColor=white)
+[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-1DB954?style=flat-square&logo=springboot&logoColor=white)](https://github.com/KhannaShivang/GoalMap)
+[![pgvector](https://img.shields.io/badge/-pgvector-191414?style=flat-square&logo=postgresql&logoColor=1DB954)](https://github.com/KhannaShivang/GoalMap)
+[![Docker](https://img.shields.io/badge/-Docker-1DB954?style=flat-square&logo=docker&logoColor=white)](https://github.com/KhannaShivang/GoalMap)
 
 🔗 [github.com/KhannaShivang/GoalMap](https://github.com/KhannaShivang/GoalMap)
 
@@ -179,9 +179,9 @@ size reduction, 100% lossless recovery across 50+ datasets. Optimized
 sliding-window matching for 1.5 MB/s throughput on 100MB+ files; streaming
 encoder-decoder cut peak memory by 30%.
 
-![Java](https://img.shields.io/badge/-Java-1DB954?style=flat-square&logo=openjdk&logoColor=white)
-![LZ77](https://img.shields.io/badge/-LZ77-191414?style=flat-square)
-![Huffman](https://img.shields.io/badge/-Huffman%20Coding-1DB954?style=flat-square)
+[![Java](https://img.shields.io/badge/-Java-1DB954?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/KhannaShivang/FileSquezer)
+[![LZ77](https://img.shields.io/badge/-LZ77-191414?style=flat-square)](https://github.com/KhannaShivang/FileSquezer)
+[![Huffman](https://img.shields.io/badge/-Huffman%20Coding-1DB954?style=flat-square)](https://github.com/KhannaShivang/FileSquezer)
 
 🔗 [github.com/KhannaShivang/FileSquezer](https://github.com/KhannaShivang/FileSquezer)
 
@@ -194,8 +194,8 @@ encoder-decoder cut peak memory by 30%.
 A GenAI application exploring document ingestion and semantic retrieval
 patterns to ground LLM responses in real context.
 
-![Python](https://img.shields.io/badge/-Python-1DB954?style=flat-square&logo=python&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG-191414?style=flat-square&logo=openai&logoColor=1DB954)
+[![Python](https://img.shields.io/badge/-Python-1DB954?style=flat-square&logo=python&logoColor=white)](https://github.com/KhannaShivang/RagApp)
+[![RAG](https://img.shields.io/badge/-RAG-191414?style=flat-square&logo=openai&logoColor=1DB954)](https://github.com/KhannaShivang/RagApp)
 
 🔗 [github.com/KhannaShivang/RagApp](https://github.com/KhannaShivang/RagApp)
 
@@ -210,7 +210,7 @@ patterns to ground LLM responses in real context.
 A custom interpreted programming language built from scratch in Java —
 lexer, parser, and evaluator implemented end-to-end.
 
-![Java](https://img.shields.io/badge/-Java-1DB954?style=flat-square&logo=openjdk&logoColor=white)
+[![Java](https://img.shields.io/badge/-Java-1DB954?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/KhannaShivang/Interpreter)
 
 🔗 [github.com/KhannaShivang/Interpreter](https://github.com/KhannaShivang/Interpreter)
 
@@ -223,8 +223,8 @@ lexer, parser, and evaluator implemented end-to-end.
 A backend service for personal journaling with structured REST endpoints,
 built to practice clean Spring Boot architecture.
 
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-1DB954?style=flat-square&logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-191414?style=flat-square&logo=openjdk&logoColor=1DB954)
+[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-1DB954?style=flat-square&logo=springboot&logoColor=white)](https://github.com/KhannaShivang/JournalApp)
+[![Java](https://img.shields.io/badge/-Java-191414?style=flat-square&logo=openjdk&logoColor=1DB954)](https://github.com/KhannaShivang/JournalApp)
 
 🔗 [github.com/KhannaShivang/JournalApp](https://github.com/KhannaShivang/JournalApp)
 
@@ -238,29 +238,15 @@ built to practice clean Spring Boot architecture.
 
 ---
 
-## 🏆 Top Charts — Achievements
-
-<div align="center">
-
-| 🥇 | Achievement |
-|:---:|:---|
-| 🎖️ | **LeetCode Guardian** — Top 1% globally |
-| 💯 | **2000+ DSA problems** solved across LeetCode, Codeforces & competitive platforms |
-| 🌐 | **Global Rank 743** — TCS CodeVita 2025 |
-
-</div>
-
----
-
 ## 📊 Stats — Listening Activity
 
 <div align="center">
 
-<img src="./assets/stats.svg" width="100%" />
+<a href="https://github.com/KhannaShivang"><img src="./assets/stats.svg" width="100%" /></a>
 
 <br/><br/>
 
-<img src="https://leetcard.jacoblin.cool/Khanna_Shivang?theme=dark&font=Fira%20Code&ext=heatmap" width="65%" />
+<a href="https://leetcode.com/u/Khanna_Shivang"><img src="https://leetcard.jacoblin.cool/Khanna_Shivang?theme=dark&font=Fira%20Code&ext=heatmap" width="65%" /></a>
 
 </div>
 
