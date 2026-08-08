@@ -74,10 +74,9 @@ QUEUE ────────────────────────�
 ### 🎹 Languages
 *The core instruments*
 
-[![Java](https://img.shields.io/badge/-Java-1DB954?style=flat-square&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
-[![Python](https://img.shields.io/badge/-Python-191414?style=flat-square&logo=python&logoColor=1DB954)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/-C++-1DB954?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-[![C](https://img.shields.io/badge/-C-191414?style=flat-square&logo=c&logoColor=1DB954)](https://en.cppreference.com/w/c)
+[![Java](https://img.shields.io/badge/-Java-1DB954?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/KhannaShivang/Interpreter)
+[![Python](https://img.shields.io/badge/-Python-191414?style=flat-square&logo=python&logoColor=1DB954)](https://github.com/KhannaShivang/RagApp)
+[![C](https://img.shields.io/badge/-C-191414?style=flat-square&logo=c&logoColor=1DB954)](https://github.com/KhannaShivang/BigInteger)
 
 </td>
 <td width="50%" valign="top">
@@ -85,10 +84,10 @@ QUEUE ────────────────────────�
 ### 🎛️ Backend
 *Where the beat is built*
 
-[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-1DB954?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![REST APIs](https://img.shields.io/badge/-REST%20APIs-191414?style=flat-square&logo=fastapi&logoColor=1DB954)](https://restfulapi.net/)
-[![Microservices](https://img.shields.io/badge/-Microservices-1DB954?style=flat-square&logo=buildkite&logoColor=white)](https://microservices.io/)
-[![JDBC](https://img.shields.io/badge/-JDBC-191414?style=flat-square&logo=oracle&logoColor=1DB954)](https://docs.oracle.com/javase/tutorial/jdbc/)
+[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-1DB954?style=flat-square&logo=springboot&logoColor=white)](https://github.com/KhannaShivang/GoalMap)
+[![REST APIs](https://img.shields.io/badge/-REST%20APIs-191414?style=flat-square&logo=fastapi&logoColor=1DB954)](https://github.com/KhannaShivang/GoalMap)
+[![Microservices](https://img.shields.io/badge/-Microservices-1DB954?style=flat-square&logo=buildkite&logoColor=white)](https://github.com/KhannaShivang/GoalMap)
+[![JDBC](https://img.shields.io/badge/-JDBC-191414?style=flat-square&logo=oracle&logoColor=1DB954)](https://github.com/KhannaShivang/JournalApp)
 
 </td>
 </tr>
@@ -98,9 +97,9 @@ QUEUE ────────────────────────�
 ### 🗄️ Databases
 *Where every track is stored*
 
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1DB954?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-191414?style=flat-square&logo=mongodb&logoColor=1DB954)](https://www.mongodb.com/)
-[![MySQL](https://img.shields.io/badge/-MySQL-1DB954?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1DB954?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/KhannaShivang/MindEase)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-191414?style=flat-square&logo=mongodb&logoColor=1DB954)](https://github.com/KhannaShivang/JournalApp)
+[![MySQL](https://img.shields.io/badge/-MySQL-1DB954?style=flat-square&logo=mysql&logoColor=white)](https://leetcode.com/medal/?showImg=0&id=9029449&isLevel=false)
 
 </td>
 <td width="50%" valign="top">
@@ -108,9 +107,9 @@ QUEUE ────────────────────────�
 ### 🧠 AI / ML
 *Remixing intelligence*
 
-[![LangGraph](https://img.shields.io/badge/-LangGraph-1DB954?style=flat-square&logo=langchain&logoColor=white)](https://www.langchain.com/langgraph)
-[![RAG](https://img.shields.io/badge/-RAG-191414?style=flat-square&logo=openai&logoColor=1DB954)](https://research.ibm.com/blog/retrieval-augmented-generation-RAG)
-[![pgvector](https://img.shields.io/badge/-pgvector-1DB954?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/pgvector/pgvector)
+[![LangGraph](https://img.shields.io/badge/-LangGraph-1DB954?style=flat-square&logo=langchain&logoColor=white)](https://github.com/KhannaShivang/MindEase)
+[![RAG](https://img.shields.io/badge/-RAG-191414?style=flat-square&logo=openai&logoColor=1DB954)](https://github.com/KhannaShivang/RagApp)
+[![pgvector](https://img.shields.io/badge/-pgvector-1DB954?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/KhannaShivang/GoalMap)
 
 </td>
 </tr>
@@ -120,8 +119,8 @@ QUEUE ────────────────────────�
 ### ⚙️ Tools & Platforms
 *The studio setup*
 
-[![Docker](https://img.shields.io/badge/-Docker-1DB954?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Git](https://img.shields.io/badge/-Git-191414?style=flat-square&logo=git&logoColor=1DB954)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/-Docker-1DB954?style=flat-square&logo=docker&logoColor=white)](https://github.com/KhannaShivang/GoalMap)
+[![Git](https://img.shields.io/badge/-Git-191414?style=flat-square&logo=git&logoColor=1DB954)](https://github.com/KhannaShivang)
 
 </td>
 </tr>
