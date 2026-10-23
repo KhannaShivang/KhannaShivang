@@ -24,7 +24,7 @@ Software Engineer specializing in **Java, Spring Boot, and distributed backend
 systems** — designing low-latency, high-throughput RESTful microservices and
 exploring applied GenAI (**LangGraph, RAG, pgvector**).
 
-B.Tech CS @ Graphic Era Deemed to be University, Dehradun — GPA 8.93/10
+B.Tech CS @ Graphic Era Deemed to be University, Dehradun — GPA 8.87/10
 
 Currently deep in DSA practice and interviewing for SDE / Backend roles —
 **open to opportunities.**
