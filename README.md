@@ -119,7 +119,7 @@ QUEUE ────────────────────────�
 ### ⚙️ Tools & Platforms
 *The studio setup*
 
-[![Docker](https://img.shields.io/badge/-Docker-1DB954?style=flat-square&logo=docker&logoColor=white)](https://github.com/KhannaShivang/GoalMap)
+[![Docker](https://img.shields.io/badge/-Docker-1DB954?style=flat-square&logo=docker&logoColor=white)](https://github.com/KhannaShivang/FileSquezer)
 [![Git](https://img.shields.io/badge/-Git-191414?style=flat-square&logo=git&logoColor=1DB954)](https://github.com/KhannaShivang)
 
 </td>
